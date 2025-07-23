@@ -4,6 +4,9 @@ const motorpertama ='Vixion';
 
 a = 10;
 var a;
+
 document.write(alamat); // maka hasil nya sesuai dengan let di atas
 document.write('<br/>');
 document.write(a); // maka hasil nya sesuai dengan let di atas
+
+// Di sini kita belajar tentang varibel let, const dan var
