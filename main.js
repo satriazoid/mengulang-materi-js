@@ -1,4 +1,2 @@
-let data = 1000;
-document.write(data);
-document.write('<br/>');
-document.write(typeof data);
+let pesan = "Welcome to my website";
+alert(pesan); // mengeluarkan varibel data pesan
