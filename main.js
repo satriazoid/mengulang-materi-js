@@ -1,9 +1,4 @@
-let nama = 'anton', umur = 17, alamat = 'klaten';
-
-const motorpertama ='Vixion';
-
-a = 10;
-var a;
-document.write(alamat); // maka hasil nya sesuai dengan let di atas
+let data = 1000;
+document.write(data);
 document.write('<br/>');
-document.write(a); // maka hasil nya sesuai dengan let di atas
+document.write(typeof data);
